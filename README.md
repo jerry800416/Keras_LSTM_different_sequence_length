@@ -1,6 +1,5 @@
 # Keras_LSTM_different_sequence_length<br><br>
-
-## Use Keras LSTM to solve time series predictions<br><br>
+Use Keras LSTM to solve time series predictions<br><br>
 
 ## including:<br>
 data pre-processing (missing data, feature scaling)<br>
